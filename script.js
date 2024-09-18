@@ -19,9 +19,6 @@
 
 //MODEL - her skal alle variablene
 
-//Gir en startverdi på tomrom i historien
-// let beginningPhrase = '_____';
-
 //Bytter ut tomrommet med ordet vi velger ved å trykke på knappene
 let chosenAdjective = ['_____', '_____', '_____', '_____', '_____']
 
